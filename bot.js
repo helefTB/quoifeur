@@ -13,4 +13,4 @@ client.on('message', message => {
   }
 });
 
-client.login('votre_token'); // Remplacez "votre_token" par le token de votre bot Discord
+client.login('MTA4NjcyMzkzNjM0MDk1MTA5MA.GqPWi_.1UqiMZXVTGShGPe20NoI7L_1uyo8YVKEYJCMdU'); // Remplacez "votre_token" par le token de votre bot Discord
